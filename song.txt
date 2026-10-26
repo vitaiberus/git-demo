@@ -1,5 +1,6 @@
 sword and spear 
 wall of shoelds 
+<<<<<<< HEAD
 standing strong 
 on this their chosen battle field
 ---------------------------------
