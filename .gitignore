@@ -16,3 +16,10 @@ doc/*.txt
 # ignore all .pdf files in the doc/ directory 
 doc/**/*.pdf
 
+# ignore *.db 
+*.db
+
+# ignore target and bin
+
+target/
+bin/

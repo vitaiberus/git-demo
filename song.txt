@@ -1,27 +1,3 @@
-sword and spear 
-wall of shoelds 
-standing strong 
-on this their chosen battle field
----------------------------------
-one
-two 
-trhee
----------------------
-
-new brach feature
-
-
--------------------
-new three lines
-<<<<<<< HEAD
-
----- 
-add new lines 
-----
-=======
-------
-new lines
-
-for tag only
-
-content to be saved
+----------------
+The first a commit. 
+----------------
